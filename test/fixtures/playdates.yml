@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: 1
+  description: MyString
+  dog1_rating: 1
+  dog1_review: MyString
+  dog2_rating: 1
+  dog2_review: MyString
+
+two:
+  location: 1
+  description: MyString
+  dog1_rating: 1
+  dog1_review: MyString
+  dog2_rating: 1
+  dog2_review: MyString
